@@ -1,0 +1,13 @@
+
+name: kinopoisk-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - pandas
+  - mlflow
+  - boto3
+  - cryptography
+  - pymysql
+  - hyperopt

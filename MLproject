@@ -1,0 +1,11 @@
+
+name: kinopoisk
+
+conda_env: environment.yml
+
+entry_points:
+  main:
+    parameters:
+      data_file: {type: str, default: "data/kinopoisk_train.csv"}
+    command: "python train.py {data_file}"
+
