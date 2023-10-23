@@ -1,3 +1,6 @@
+
+Тестовый ноутбук - `Hyperopt.ipynb`
+
 ## Запуск
 
 1. Запустить mlflow сервер: [ilapro53/skillbox_mlflow_server](https://github.com/ilapro53/skillbox_mlflow_server)
